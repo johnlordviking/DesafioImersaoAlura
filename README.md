@@ -64,5 +64,7 @@ O passarinho tinha uma voz tão bonita quanto a de Florzinha e os dois pássaros
 A partir daquele dia, Florzinha e o passarinho cantavam todos os dias no jardim. As outras borboletas adoravam ouvir suas vozes e sempre paravam para ouvi-los. 
 O jardim das borboletas era um lugar muito feliz. As flores eram coloridas e as borboletas eram alegres. Todos os dias, as borboletas voavam de flor em flor, polinizando-as e ajudando-as a crescer. E todos os dias, Florzinha e o passarinho cantavam suas belas canções.
 
+---
+
 **Junte-se a nós nesta jornada mágica e transforme a imaginação das crianças em realidade!**
 
