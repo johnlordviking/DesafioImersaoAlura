@@ -42,11 +42,11 @@ Incentive a leitura, a escrita e a criatividade em casa de forma lúdica.
 **Crianças:** 
 Explore um mundo de histórias fantásticas e aprenda enquanto se diverte!
 
-## Exemplo do App
+## Exemplo do App (mocap)
 <img width="300" src="https://e-mind.online/github/tela1.png" /> <img width="300" src="https://e-mind.online/github/tela2.png" />
 
 
-## Exemplo da Aplicação
+## Resultado do Script
 **Imagem de Teste**
 
 ![enter image description here](https://e-mind.online/github/jardim.jpg)
