@@ -1,7 +1,7 @@
 <a id="topo"></a>
 # Imersao_Alura_2024
 ![enter image description here](https://e-mind.online/github/ocontadordehistorias512.png)
-## O Contador de HistórIA
+## 📖✍ O Contador de HistórIA ✍📖
 **Transformando Desenhos em Fábulas com Inteligência Artificial!**
 
 Imagine um mundo onde a criatividade das crianças se transforma em histórias encantadoras! Esse é o objetivo do nosso projeto inovador: uma aplicação que usa inteligência artificial para gerar fábulas a partir de desenhos infantis.
