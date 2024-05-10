@@ -1,5 +1,5 @@
 <a id="topo"></a>
-# Imersao_Alura_2024
+# 🤖 Imersao_IA_Alura_2024 🤖
 ![enter image description here](https://e-mind.online/github/ocontadordehistorias512.png)
 ## 📖✍ O Contador de HistórIA ✍📖
 **Transformando Desenhos em Fábulas com Inteligência Artificial!**
