@@ -43,8 +43,8 @@ Incentive a leitura, a escrita e a criatividade em casa de forma lúdica.
 Explore um mundo de histórias fantásticas e aprenda enquanto se diverte!
 
 ## Exemplo do App
-![Tela Inicial](https://e-mind.online/github/1.jpg)
-![Tela de Resultado](https://e-mind.online/github/2.jpg)
+![Tela Inicial](https://e-mind.online/github/1.png)
+![Tela de Resultado](https://e-mind.online/github/2.png)
 
 
 ## Exemplo da Aplicação
